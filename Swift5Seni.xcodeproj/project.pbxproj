@@ -13,6 +13,7 @@
 		3FDD631F256E656100D2359D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FDD631D256E656100D2359D /* Main.storyboard */; };
 		3FDD6321256E656400D2359D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FDD6320256E656400D2359D /* Assets.xcassets */; };
 		3FDD6324256E656400D2359D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FDD6322256E656400D2359D /* LaunchScreen.storyboard */; };
+		3FDD632E256E675700D2359D /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD632D256E675700D2359D /* NextViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3FDD6320256E656400D2359D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FDD6323256E656400D2359D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3FDD6325256E656400D2359D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FDD632D256E675700D2359D /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3FDD6317256E656100D2359D /* AppDelegate.swift */,
 				3FDD6319256E656100D2359D /* SceneDelegate.swift */,
 				3FDD631B256E656100D2359D /* ViewController.swift */,
+				3FDD632D256E675700D2359D /* NextViewController.swift */,
 				3FDD631D256E656100D2359D /* Main.storyboard */,
 				3FDD6320256E656400D2359D /* Assets.xcassets */,
 				3FDD6322256E656400D2359D /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FDD631C256E656100D2359D /* ViewController.swift in Sources */,
+				3FDD632E256E675700D2359D /* NextViewController.swift in Sources */,
 				3FDD6318256E656100D2359D /* AppDelegate.swift in Sources */,
 				3FDD631A256E656100D2359D /* SceneDelegate.swift in Sources */,
 			);
